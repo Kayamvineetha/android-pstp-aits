@@ -1,11 +1,11 @@
 # android-pstp-aits
 This is for android app development projects skill training program demo
-# APSSDC - ANDROID -5D8 - AITS - TIRUPATI
-## APSSDC - ANDROID -5D8 - AITS - TIRUPATI
-### APSSDC - ANDROID -5D8 - AITS - TIRUPATI
-#### APSSDC - ANDROID -5D8 - AITS - TIRUPATI
-##### APSSDC - ANDROID -5D8 - AITS - TIRUPATI
-###### APSSDC - ANDROID -5D8 - AITS - TIRUPATI
+# APSSDC - ANDROID -5D7 - AITS - TIRUPATI
+## APSSDC - ANDROID -5D7 - AITS - TIRUPATI
+### APSSDC - ANDROID -5D7 - AITS - TIRUPATI
+#### APSSDC - ANDROID -5D7 - AITS - TIRUPATI
+##### APSSDC - ANDROID -5D7 - AITS - TIRUPATI
+###### APSSDC - ANDROID -5D7 - AITS - TIRUPATI
 
 * Ordered List
 1. AITS-TPT
@@ -29,9 +29,9 @@ This is for android app development projects skill training program demo
         - temples
     - Nellore
         - Beach
-    - Tirupati
-        - Restaurants
-        - Seven hills
+    - Kurnool
+        - Airport
+        - Sreesailam
     - Kadapa
         - gandi kota
         - Temple
